@@ -39,6 +39,7 @@ def Graph():
 	K_vec=[]
 	x_plot=[]
 	j=0
+	
 	while j<N:
 		K_vec.append(integal_j(-5,5,j))
 		x_plot.append(x[j])
