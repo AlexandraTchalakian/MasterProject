@@ -14,7 +14,6 @@ epsilon=0.5
 A=0.25
 
 
-
 def Potential(y):
 	return m*A**2*(1-cos(y))
 
